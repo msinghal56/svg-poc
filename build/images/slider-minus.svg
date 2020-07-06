@@ -1,0 +1,8 @@
+export default {
+      id: "slider-minus-usage",
+      viewBox: "0 0 17 17",
+      url: __webpack_public_path__ + "/Users/maysingh2/POC/src/images/svg/slider-minus.svg",
+      toString: function () {
+        return this.url;
+      }
+    }

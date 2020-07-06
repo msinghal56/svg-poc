@@ -1,0 +1,10 @@
+.slider-minus {
+  background: url(images/slider-minus.svg) -1px -1px no-repeat;
+  width: 17px;
+  height: 17px;
+  object-fit: contain;
+  border: 2px solid red;
+}
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvc3R5bGUubGVzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsImZpbGUiOiJzdHlsZS5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2xpZGVyLW1pbnVzIHtcbiAgYmFja2dyb3VuZDogdXJsKGltYWdlcy9zbGlkZXItbWludXMuc3ZnKSAtMXB4IC0xcHggbm8tcmVwZWF0O1xuICB3aWR0aDogMTdweDtcbiAgaGVpZ2h0OiAxN3B4O1xuICBvYmplY3QtZml0OiBjb250YWluO1xuICBib3JkZXI6IDJweCBzb2xpZCByZWQ7XG59XG4iXSwic291cmNlUm9vdCI6IiJ9*/
